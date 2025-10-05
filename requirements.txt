@@ -6,3 +6,4 @@ scapy
 jupyterlab
 notebook
 networkx
+ipywidgets
